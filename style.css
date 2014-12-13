@@ -1,0 +1,10 @@
+#bouger{
+    width: 400px;
+    height: 100px;
+    position: relative;
+    text-align: center;
+    line-height: 100px;
+    margin-top: 50px;
+    left: 0px;
+    background: darkgrey;
+}
